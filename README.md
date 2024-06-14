@@ -1,6 +1,6 @@
 # DeepGenerativeModels
 
-This repository contains my implementations codes of deep generative model course, includes :
+This repository contains codes of my assignments that includes :
 
 * [Developing VAE, Beta-VAE, CVAE(conditional VAE) and conducting experiments on them.](https://github.com/niiiikou/DeepGenerativeModels/tree/main/HW2)
 
