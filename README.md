@@ -6,4 +6,4 @@ This repository contains codes of my assignments that includes :
 
 * [Implementing score matching for training diffusion models.](https://github.com/niiiikou/DeepGenerativeModels/tree/main/HW3)
 
-* [Presenting causalvae paper in final project and reproduce experiments of it.](https://github.com/niiiikou/DeepGenerativeModels/tree/main/FinalProject)
+* [Presenting causalvae paper in final project and reproduce experiments of it.]
